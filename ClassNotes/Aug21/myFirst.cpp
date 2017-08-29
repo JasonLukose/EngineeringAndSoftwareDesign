@@ -20,9 +20,12 @@ int main()
 // The body of the main function is contained in curly braces
 // This function is named main, it returns an integer and takes no args
 
-std::cout << "Hello, this is my first C++ Program. \n";
+std::cout << "Hello, this is my first C++ Program" << std::endl << "Neutral Statement" << std::endl;
 // Streaming string to standard output
 
+
+
+return 0;
 }
 
 
